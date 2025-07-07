@@ -15,8 +15,7 @@ This project analyzes call center operations to uncover trends in call volume, r
 Helped the business realign agent shifts to match peak demand, boosting service levels and reducing customer wait times.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Screenshot.png).
-
+![Dashboard Screenshot](Screenshot.png)
 ## 🔗 About Me
 This is part of my journey to turn data into smart business decisions.  
 Check out more of my work on [GitHub](https://github.com/Gift-nwocha).
