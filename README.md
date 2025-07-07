@@ -17,5 +17,6 @@ Helped the business realign agent shifts to match peak demand, boosting service 
 ## Dashboard Preview
 ![Dashboard Screenshot](Screenshot.png)
 ## 🔗 About Me
-This is part of my journey to turn data into smart business decisions.  
-Check out more of my work on [GitHub](https://github.com/Gift-nwocha).
+Rejoice Nwocha – Data Analyst & Insight Huntress
+I transform chaos into clarity using the power of business intelligence tools and storytelling dashboards.
+🔗 LinkedIn
